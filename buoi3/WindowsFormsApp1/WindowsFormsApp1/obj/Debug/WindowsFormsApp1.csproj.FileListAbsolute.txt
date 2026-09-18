@@ -1,0 +1,10 @@
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMain.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\buoi3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
