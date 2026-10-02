@@ -1,0 +1,14 @@
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E-Shopping.csproj.AssemblyReference.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E_Shopping.Properties.Resources.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E-Shopping.csproj.GenerateResource.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E-Shopping.csproj.CoreCompileInputs.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\bin\Debug\Quan_Ly_He_Thong_E-Shopping.exe.config
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\bin\Debug\Quan_Ly_He_Thong_E-Shopping.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\bin\Debug\Quan_Ly_He_Thong_E-Shopping.pdb
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E-Shopping.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E-Shopping.pdb
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E_Shopping.Forms.FrmTrangChu.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E_Shopping.FrmChiTietSanPham.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E_Shopping.Forms.FrmDangNhap.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E_Shopping.Forms.FrmDangKy.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB4\Quan_Ly_He_Thong_E-Shopping\Quan_Ly_He_Thong_E-Shopping\obj\Debug\Quan_Ly_He_Thong_E_Shopping.Forms.FrmSanPham.resources
