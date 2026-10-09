@@ -1,0 +1,11 @@
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.AssemblyReference.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.Frm.frmMain.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.Frm.FrmPhanCongVaLuong.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.Properties.Resources.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.GenerateResource.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.csproj.CoreCompileInputs.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe.config
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\bin\Debug\QuanLyTourDuLich.pdb
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB5\QuanLyTourDuLich\QuanLyTourDuLich\obj\Debug\QuanLyTourDuLich.pdb
