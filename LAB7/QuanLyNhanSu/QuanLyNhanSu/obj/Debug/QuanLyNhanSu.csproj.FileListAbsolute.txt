@@ -1,0 +1,4 @@
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB7\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
