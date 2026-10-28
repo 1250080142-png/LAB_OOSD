@@ -1,0 +1,9 @@
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\obj\Debug\QuanLyCuaHangNuocGiaiKhat.csproj.AssemblyReference.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\obj\Debug\QuanLyCuaHangNuocGiaiKhat.Properties.Resources.resources
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\obj\Debug\QuanLyCuaHangNuocGiaiKhat.csproj.GenerateResource.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\obj\Debug\QuanLyCuaHangNuocGiaiKhat.csproj.CoreCompileInputs.cache
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\bin\Debug\QuanLyCuaHangNuocGiaiKhat.exe.config
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\bin\Debug\QuanLyCuaHangNuocGiaiKhat.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\bin\Debug\QuanLyCuaHangNuocGiaiKhat.pdb
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\obj\Debug\QuanLyCuaHangNuocGiaiKhat.exe
+E:\NAM4-HK1-26-27\ppptpmhdt\LAB8\QuanLyCuaHangNuocGiaiKhat\QuanLyCuaHangNuocGiaiKhat\obj\Debug\QuanLyCuaHangNuocGiaiKhat.pdb
